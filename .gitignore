@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!.README.md
+!Cosmic_Bunker.twld
+!Cosmic_Bunker.twld.bak
+!Cosmic_Bunker.wld
+!Cosmic_Bunker.wld.bak
